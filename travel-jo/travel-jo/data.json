@@ -1,0 +1,37 @@
+{    
+    "place_id_1": {
+      "images": ["image1.jpg", "image2.jpg"],
+      "title": "Tourist Spot A",
+      "description": "A beautiful tourist spot",
+      "videos": ["video1.mp4", "video2.mp4"]
+    },
+    "place_id_2": {
+      "images": ["image3.jpg", "image4.jpg"],
+      "title": "Tourist Spot B",
+      "description": "Another scenic location",
+      "videos": ["video3.mp4", "video4.mp4"]
+    },
+    "place_3" : {
+      "images": ["https://cdn.britannica.com/88/189788-050-9B5DB3A4/Al-Dayr-Petra-Jordan.jpg", "https://lp-cms-production.imgix.net/2022-03/GettyRF_521275152.jpg"],
+      "title": "Petra",
+      "description": "Petra descri",
+      "videos": ["https://www.youtube.com/watch?v=SZ5JjLdzQ1o"],
+      "activities": [
+        {
+          "id": "activity_1",
+          "title": "Walking",
+          "description": "Walking throgh Petra",
+          "images": ["https://cdn.britannica.com/88/189788-050-9B5DB3A4/Al-Dayr-Petra-Jordan.jpg"],
+          "videos": ["https://www.youtube.com/watch?v=SZ5JjLdzQ1o"]
+        },
+        {
+          "id": "activity_1",
+          "title": "Riding Camel",
+          "description": "Riding Camel throgh Petra",
+          "images": ["https://cdn.britannica.com/88/189788-050-9B5DB3A4/Al-Dayr-Petra-Jordan.jpg"],
+          "videos": ["https://www.youtube.com/watch?v=SZ5JjLdzQ1o"]
+        }        
+
+      ]
+    }
+}
